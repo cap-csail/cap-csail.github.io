@@ -19,4 +19,4 @@ fa-icon: files-o
 </script>   
 
 ## Publications
-<iframe  src="http://bibbase.org/show?bib=http%3A%2F%2Fcap-csail.github.io%2F%2Ffiles%2Fcap_pubs.bib&msg=embed" width="100%" scrolling="no" ></iframe>
+<iframe id="idIframe" onload="iframeLoaded()" src="http://bibbase.org/show?bib=http%3A%2F%2Fcap-csail.github.io%2F%2Ffiles%2Fcap_pubs.bib&msg=embed" width="100%" scrolling="no" ></iframe>
