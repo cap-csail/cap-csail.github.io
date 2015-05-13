@@ -1,11 +1,11 @@
 ---
-title: "mission"
-bg: crimson
-color: white
+title: "publications"
+bg: turquoise
+color: black
 style: left
-fa-icon: rocket
+fa-icon: files-o
 ---
 
-## Mission
+## Publications
 
-### Our goal is to develop techniques and tools that exploit automated reasoning and large amounts of computing power to tackle challenging programming problems.
+
