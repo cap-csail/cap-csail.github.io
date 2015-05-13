@@ -1,6 +1,6 @@
 ---
 title: "publications"
-bg: turquoise
+bg: white
 color: black
 style: left
 fa-icon: files-o
