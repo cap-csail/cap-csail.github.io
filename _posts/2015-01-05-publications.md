@@ -3,7 +3,7 @@ title: "publications"
 bg: white
 color: black
 style: left
-fa-icon: files-o
+fa-icon: files
 ---
 
 ## Publications
