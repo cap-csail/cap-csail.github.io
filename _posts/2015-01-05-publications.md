@@ -1,9 +1,9 @@
 ---
 title: "publications"
-bg: white
+bg: yellow
 color: black
 style: left
-fa-icon: book
+fa-icon: files-o
 ---
 
 ## Publications
